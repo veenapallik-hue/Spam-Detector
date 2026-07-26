@@ -25,9 +25,6 @@ streamlit run app.py
 ## 🤖 Models Included
 
 - **Naive Bayes** — fast, strong baseline for text
-- **Logistic Regression** — interpretable linear classifier
-- **Random Forest** — ensemble tree-based model
-- **Linear SVM** — high-accuracy margin classifier
 
 ## 🔧 Tech Stack
 
